@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title">
+  <title id="title">Sea silk textile</title>
+  <rect width="640" height="420" fill="#07111f"/>
+  <path d="M126 124c126-70 262 72 388 0v174c-126 70-262-72-388 0z" fill="#d9ad4f" opacity=".88"/>
+  <g fill="none" stroke="#07111f" stroke-width="5" opacity=".48">
+    <path d="M126 164c126-70 262 72 388 0"/>
+    <path d="M126 204c126-70 262 72 388 0"/>
+    <path d="M126 244c126-70 262 72 388 0"/>
+    <path d="M178 105v212M246 120v212M314 138v212M382 126v212M450 102v212"/>
+  </g>
+  <path d="M120 330c122-34 272 30 400-14" stroke="#1ea7a8" stroke-width="6" opacity=".62"/>
+</svg>

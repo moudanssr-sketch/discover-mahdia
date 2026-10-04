@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Discover Mahdia gallery map</title>
+  <desc id="desc">A stylized museum floor plan inspired by Mahdia's coast, medina, and Fatimid heritage.</desc>
+  <defs>
+    <linearGradient id="floor" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#132742"/>
+      <stop offset=".55" stop-color="#0d1b31"/>
+      <stop offset="1" stop-color="#07111f"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" x2="1">
+      <stop offset="0" stop-color="#1ea7a8" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#d9ad4f" stop-opacity=".2"/>
+    </linearGradient>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="760" fill="url(#floor)"/>
+  <path d="M0 640 C150 560 270 690 420 615 C590 530 690 620 860 560 C1015 505 1090 550 1200 505 L1200 760 L0 760 Z" fill="url(#sea)"/>
+  <path d="M92 96 H1108 V620 H92 Z" fill="none" stroke="#d9ad4f" stroke-width="8" opacity=".7"/>
+  <path d="M180 176 H470 V332 H180 Z M530 176 H1020 V332 H530 Z M180 394 H385 V548 H180 Z M445 394 H725 V548 H445 Z M785 394 H1020 V548 H785 Z" fill="#0a1628" stroke="#d9ad4f" stroke-width="4" opacity=".82"/>
+  <path d="M470 254 H530 M385 470 H445 M725 470 H785 M600 332 V394" stroke="#f5f0df" stroke-width="18" stroke-linecap="round" opacity=".28"/>
+  <circle cx="600" cy="470" r="76" fill="none" stroke="#1ea7a8" stroke-width="4" opacity=".7"/>
+  <circle cx="600" cy="470" r="38" fill="#d9ad4f" opacity=".18"/>
+  <path d="M600 428 L634 502 H566 Z" fill="none" stroke="#d9ad4f" stroke-width="5"/>
+  <path d="M132 136 H1068 M132 580 H1068" stroke="#f5f0df" stroke-width="2" opacity=".16"/>
+  <g fill="#d9ad4f" opacity=".45">
+    <circle cx="230" cy="250" r="8"/>
+    <circle cx="330" cy="250" r="8"/>
+    <circle cx="650" cy="250" r="8"/>
+    <circle cx="850" cy="250" r="8"/>
+    <circle cx="280" cy="470" r="8"/>
+    <circle cx="560" cy="470" r="8"/>
+    <circle cx="900" cy="470" r="8"/>
+  </g>
+  <path d="M100 95 C290 30 466 34 606 96 C744 156 924 130 1108 96" fill="none" stroke="#1ea7a8" stroke-width="3" opacity=".35" filter="url(#soft)"/>
+</svg>

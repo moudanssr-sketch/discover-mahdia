@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title">
+  <title id="title">Fatimid gold dinar</title>
+  <rect width="640" height="420" fill="#081323"/>
+  <circle cx="320" cy="210" r="128" fill="#d9ad4f"/>
+  <circle cx="320" cy="210" r="104" fill="none" stroke="#07111f" stroke-width="10"/>
+  <circle cx="320" cy="210" r="68" fill="none" stroke="#07111f" stroke-width="5"/>
+  <path d="M256 210h128M320 146v128" stroke="#07111f" stroke-width="12" stroke-linecap="round"/>
+  <path d="M130 84h380v252H130z" fill="none" stroke="#1ea7a8" stroke-width="4" opacity=".35"/>
+</svg>

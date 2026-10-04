@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title">
+  <title id="title">Ottoman tile fragment</title>
+  <rect width="640" height="420" fill="#081323"/>
+  <path d="M160 80h320v260H160z" fill="#f5f0df" stroke="#d9ad4f" stroke-width="8"/>
+  <path d="M320 108c48 52 48 152 0 204-48-52-48-152 0-204z" fill="#1ea7a8"/>
+  <path d="M196 118c80 34 168 34 248 0M196 302c80-34 168-34 248 0" fill="none" stroke="#e26352" stroke-width="10" stroke-linecap="round"/>
+  <path d="M190 210h260M320 88v244" stroke="#07111f" stroke-width="5" opacity=".35"/>
+</svg>

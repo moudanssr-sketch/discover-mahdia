@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title">
+  <title id="title">Olive oil amphora</title>
+  <rect width="640" height="420" fill="#081323"/>
+  <path d="M282 84h76l-15 58c52 22 76 72 76 128 0 70-39 112-99 112s-99-42-99-112c0-56 24-106 76-128z" fill="#d9ad4f"/>
+  <path d="M244 178c-60-18-84 42-56 92 18 32 54 35 74 18M396 178c60-18 84 42 56 92-18 32-54 35-74 18" fill="none" stroke="#d9ad4f" stroke-width="18" stroke-linecap="round"/>
+  <path d="M276 118h88M249 242h142M268 306h104" stroke="#07111f" stroke-width="8" stroke-linecap="round"/>
+  <path d="M142 340h356" stroke="#1ea7a8" stroke-width="5" opacity=".42"/>
+</svg>

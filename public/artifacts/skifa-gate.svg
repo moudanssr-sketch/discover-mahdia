@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title">
+  <title id="title">Skifa el Kahla gate</title>
+  <rect width="640" height="420" fill="#07111f"/>
+  <path d="M154 334V142c0-38 31-69 69-69h194c38 0 69 31 69 69v192" fill="#132742" stroke="#d9ad4f" stroke-width="10"/>
+  <path d="M235 334V197c0-47 38-85 85-85s85 38 85 85v137" fill="#0b182b" stroke="#f5f0df" stroke-width="6" opacity=".9"/>
+  <path d="M154 154h332M190 112h260M198 334h244" stroke="#1ea7a8" stroke-width="6" opacity=".5"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title">
+  <title id="title">Fishing net</title>
+  <rect width="640" height="420" fill="#091426"/>
+  <path d="M96 298c124-134 324-134 448 0" fill="none" stroke="#d9ad4f" stroke-width="10" stroke-linecap="round"/>
+  <g stroke="#1ea7a8" stroke-width="4" opacity=".8">
+    <path d="M128 284l86-114 100 132 99-132 99 114"/>
+    <path d="M184 234l62-84 74 98 73-98 63 84"/>
+    <path d="M96 298h448M136 270h368M186 232h268"/>
+    <path d="M214 170l-54 128M314 302l-68-152M413 170l66 128"/>
+  </g>
+  <circle cx="320" cy="122" r="32" fill="#d9ad4f" opacity=".82"/>
+</svg>

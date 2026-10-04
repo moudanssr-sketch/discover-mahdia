@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title">
+  <title id="title">Medina door knocker</title>
+  <rect width="640" height="420" fill="#07111f"/>
+  <path d="M166 68h308v284H166z" fill="#132742" stroke="#d9ad4f" stroke-width="9"/>
+  <path d="M320 116v94" stroke="#f5f0df" stroke-width="7" opacity=".5"/>
+  <circle cx="320" cy="230" r="82" fill="none" stroke="#d9ad4f" stroke-width="18"/>
+  <circle cx="320" cy="164" r="28" fill="#d9ad4f"/>
+  <path d="M232 116h176M232 334h176M196 100v236M444 100v236" stroke="#1ea7a8" stroke-width="4" opacity=".46"/>
+</svg>
